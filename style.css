@@ -336,8 +336,8 @@ nav .logo h1 a{
   
 }
 .typewriter{
-  margin-left: 38%;
-  width: 23%;
+  margin: auto;
+  width: fit-content;
   justify-content: center;
 }
 
